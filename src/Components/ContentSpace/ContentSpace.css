@@ -1,0 +1,9 @@
+.contentspace-container{
+    flex-grow: 15;
+    border: 3px solid #6d5ce8;
+    border-left: 0;
+    height: 96.1vh;
+    width: 100%;
+    border-radius: 0 1em 1em 0;
+    overflow: auto;
+}

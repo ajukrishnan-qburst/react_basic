@@ -1,0 +1,7 @@
+.content-header__container h1 {
+    border-bottom:3px solid#6d5ce8;
+    color: #6d5ce8;
+    padding: 2.35rem 1rem; 
+    text-align: center;
+    font-size: 40px;
+}

@@ -1,0 +1,36 @@
+.sidebar-container{
+  background-color: #6d5ce8;
+  border-radius: 1em 0 0 1em;
+  color: white;
+  flex-grow: 1;
+  height: 97vh;
+  text-align: center;
+  width: 25vw;
+}
+
+.sidebar-header{
+    border-bottom: 0.25rem solid white;
+    font-size: 2rem;
+    padding: 1rem 1rem;
+}
+
+.sidebar-header h3:hover{
+    cursor: pointer;
+    color: aqua;
+}
+
+.sidebar-titles__list{   
+    list-style: none;
+    padding: 1em 1em;
+}
+
+.sidebar-titles__list li{
+    font-size: 2rem; 
+    margin: 0 auto;
+    margin: 1rem 1rem;   
+}
+
+.sidebar-titles__list li span:hover{
+    color: aqua; 
+    cursor: pointer; 
+}

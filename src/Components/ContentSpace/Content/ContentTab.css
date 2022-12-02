@@ -1,0 +1,19 @@
+.contenttab-container{
+    margin: auto auto;
+    width: 80%;
+}
+
+.content-header th{
+   padding: 1rem;
+   border: 3px solid #6d5ce8;
+   cursor: pointer;
+   width: 50%;
+}
+.content-header th:active {
+   transform: scale(0.98);
+}
+
+
+.content-column td {
+    border: 3px solid #6d5ce8;
+}
